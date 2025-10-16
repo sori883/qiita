@@ -1,9 +1,11 @@
 ---
-title: Bedrockエージェント入門
+title: Amazon Bedrockの概要＆使って学ぶBedrockエージェント
 tags:
-  - AWS
-  - AI
-  - bedrock
+  - 'AWS'
+  - 'bedrock'
+  - 'AI'
+  - 'AIエージェント'
+  - 'Next.js'
 private: true
 updated_at: '2025-10-17T01:16:28+09:00'
 id: 30a59b75f031ecb2d1b6
@@ -28,6 +30,8 @@ ignorePublish: false
   - Bedrockを使った簡単なWebアプリを作成する。
 
 # 全体像
+AI領域、日々進化しすぎて単語分からないがち。  
+
 Bedrockのキャッチアップするにあたって、様々な単語の全体像を把握するとかなりスムーズです。  
 私がキャッチアップする中で混乱した単語を以下のとおりまとめてみました。  
 
