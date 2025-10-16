@@ -1,13 +1,13 @@
 ---
 title: Amazon Bedrockの概要＆使って学ぶBedrockエージェント
 tags:
-  - 'AWS'
-  - 'bedrock'
-  - 'AI'
-  - 'AIエージェント'
-  - 'Next.js'
+  - AWS
+  - AI
+  - Next.js
+  - bedrock
+  - AIエージェント
 private: true
-updated_at: '2025-10-17T01:16:28+09:00'
+updated_at: '2025-10-17T01:27:54+09:00'
 id: 30a59b75f031ecb2d1b6
 organization_url_name: null
 slide: false
