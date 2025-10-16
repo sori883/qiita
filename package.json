@@ -1,0 +1,31 @@
+{
+  "name": "qiita",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "qiita": "qiita",
+    "new": "qiita new",
+    "preview": "CHOKIDAR_USEPOLLING=true qiita preview",
+    "publish": "qiita publish",
+    "publish:all": "qiita publish -all",
+    "lint": "textlint public/*.md --config .textlintrc.json",
+    "lint:fix": "textlint --fix public/*.md --config .textlintrc.json",
+    "clean": "rm -rf node_modules"
+  },
+  "keywords": [
+    "qiita"
+  ],
+  "author": "sori883",
+  "license": "ISC",
+  "packageManager": "pnpm@10.18.2",
+  "dependencies": {
+    "@qiita/qiita-cli": "^1.6.2"
+  },
+  "devDependencies": {
+    "textlint": "^15.2.3",
+    "textlint-rule-ja-no-redundant-expression": "^4.0.1",
+    "textlint-rule-ja-unnatural-alphabet": "^2.0.1",
+    "textlint-rule-no-doubled-joshi": "^5.1.1",
+    "textlint-rule-preset-ja-technical-writing": "^12.0.2"
+  }
+}
