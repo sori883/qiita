@@ -6,10 +6,9 @@ tags:
   - "AI"
   - "AIエージェント"
   - "Next.js"
-tags: AWS bedrock AI AIエージェント Next.js
 private: true
 id: null
-organization_url_name: null
+organization_url_name: "ap-com"
 slide: false
 ignorePublish: false
 ---
