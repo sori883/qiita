@@ -13,8 +13,6 @@ organization_url_name: "ap-com" # 関連付けるOrganizationのURL名
 slide: false # true: スライドモードON / false: スライドモードOFF
 ignorePublish: false
 ---
-
-
 こんにちは〜。  
 [@sori883](https://x.com/sori883)です！  
 
