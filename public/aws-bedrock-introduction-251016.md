@@ -1,8 +1,17 @@
 ---
-title: 【今更】Amazon Bedrockの概要＆使って学ぶBedrockエージェント
+title: "【今更入門】Amazon Bedrockの概要＆使って学ぶBedrockエージェント"
+tags:
+  - "AWS"
+  - "bedrock"
+  - "AI"
+  - "AIエージェント"
+  - "Next.js"
 tags: AWS bedrock AI AIエージェント Next.js
-author: sori883
-slide: false
+private: true # true: 限定共有記事 / false: 公開記事
+id: null # 記事を投稿した際に自動的に記事のUUIDに変わります
+organization_url_name: "ap-com" # 関連付けるOrganizationのURL名
+slide: false # true: スライドモードON / false: スライドモードOFF
+ignorePublish: false
 ---
 
 

@@ -19,7 +19,8 @@
   "license": "ISC",
   "packageManager": "pnpm@10.18.2",
   "dependencies": {
-    "@qiita/qiita-cli": "^1.6.2"
+    "@qiita/qiita-cli": "^1.6.2",
+    "qiita": "link:"
   },
   "devDependencies": {
     "textlint": "^15.2.3",
