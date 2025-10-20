@@ -7,10 +7,10 @@ tags:
   - "AIエージェント"
   - "Next.js"
 tags: AWS bedrock AI AIエージェント Next.js
-private: true # true: 限定共有記事 / false: 公開記事
-id: null # 記事を投稿した際に自動的に記事のUUIDに変わります
-organization_url_name: "ap-com" # 関連付けるOrganizationのURL名
-slide: false # true: スライドモードON / false: スライドモードOFF
+private: true
+id: null
+organization_url_name: "https://qiita.com/organizations/ap-com"
+slide: false
 ignorePublish: false
 ---
 こんにちは〜。  
