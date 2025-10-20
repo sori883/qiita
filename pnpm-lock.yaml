@@ -11,6 +11,9 @@ importers:
       '@qiita/qiita-cli':
         specifier: ^1.6.2
         version: 1.6.2
+      qiita:
+        specifier: 'link:'
+        version: 'link:'
     devDependencies:
       textlint:
         specifier: ^15.2.3
