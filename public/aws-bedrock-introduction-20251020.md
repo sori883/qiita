@@ -9,7 +9,7 @@ tags:
 tags: AWS bedrock AI AIエージェント Next.js
 private: true
 id: null
-organization_url_name: "https://qiita.com/organizations/ap-com"
+organization_url_name: null
 slide: false
 ignorePublish: false
 ---
