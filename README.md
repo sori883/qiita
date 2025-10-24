@@ -32,3 +32,7 @@ ignorePublish: false # true: `publish`コマンドにおいて無視されます
 # new article body
 
 ```
+
+
+# エラー
+https://qiita.com/soranjiro/items/ff4ad837bdfb9e921593
