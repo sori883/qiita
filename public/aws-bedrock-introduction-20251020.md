@@ -7,9 +7,9 @@ tags:
   - bedrock
   - AIエージェント
 private: false
-updated_at: '2025-10-24T16:07:47+09:00'
+updated_at: ''
 id: d75e9019767430152dd8
-organization_url_name: null
+organization_url_name: "ap-com"
 slide: false
 ignorePublish: false
 ---
