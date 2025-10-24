@@ -2,14 +2,14 @@
 title: 30分でAmazon Bedrock AgentCore RuntimeにAIエージェントをデプロイする
 tags:
   - AWS
-  - UV
-  - AgentCore
-  - bedrock
   - 初心者
+  - UV
+  - bedrock
+  - AgentCore
 private: false
-updated_at: ''
-id: null
-organization_url_name: "ap-com"
+updated_at: '2025-10-24T16:07:47+09:00'
+id: 6396332cbff4e302ca13
+organization_url_name: ap-com
 slide: false
 ignorePublish: false
 ---

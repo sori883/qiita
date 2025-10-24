@@ -6,8 +6,8 @@ tags:
   - Next.js
   - bedrock
   - AIエージェント
-private: true
-updated_at: ''
+private: false
+updated_at: '2025-10-24T16:07:47+09:00'
 id: d75e9019767430152dd8
 organization_url_name: null
 slide: false
