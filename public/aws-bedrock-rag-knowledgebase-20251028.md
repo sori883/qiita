@@ -644,7 +644,7 @@ RAGの仕組みについては、なんとなーーーく理解できました�
 
 - [Bedrock Knowledge Basesの内部処理を覗いてみた](https://zenn.dev/nttdata_tech/articles/c1e22755b7cfdc)
 - [Bedrockのリランクモデルをナレッジベースで試してみる][https://qiita.com/yakumo_09/items/71985501e689b840b96d]
-- [Pineconeでハイブリッド検索／リランクは検索精度にどのように寄与するか？](https://acro-engineer.hatenablog.com/entry/2024/11/20/120000)
+- [Pineconeでハイブリッド検索／リランクは検索精度にどのように寄与するか？][https://acro-engineer.hatenablog.com/entry/2024/11/20/120000]
 - [ベクトルDBの選び方：RAGで失敗しないためのAWSサービス徹底比較](https://qiita.com/syukan3/items/1067686795f852d3d2de)
 - [RAGにおけるナレッジベースの仕組み：インデックス、検索、Rerankの関係をわかりやすく解説](https://noviq.jp/column/article/easy-guide-index-search-reranking)
 - [Amazon OpenSearch ServiceをRAG用のナレッジベースとして整える](https://qiita.com/moritalous/items/1520f03fb6d038fd6fd9)
