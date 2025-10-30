@@ -1,14 +1,14 @@
 ---
 title: 【今更入門】RAGを理解するためにBedrock ナレッジベースを使ってみる
 tags:
-  - 'AWS'
-  - '生成AI'
-  - 'rag'
-  - 'bedrock'
-  - 'KnowledgeBaseForAmazonBedrock'
+  - AWS
+  - rag
+  - bedrock
+  - 生成AI
+  - KnowledgeBaseForAmazonBedrock
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-10-30T20:18:13+09:00'
+id: 17acd638e252cf869209
 organization_url_name: ap-com
 slide: false
 ignorePublish: false
