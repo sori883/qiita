@@ -1,5 +1,5 @@
 ---
-title: 【今更入門】RAGを理解するためにBedrock ナレッジベースを使ってみる
+title: 【今更入門】RAGを理解するためにAmazon Bedrock ナレッジベースを使ってみる
 tags:
   - AWS
   - rag
