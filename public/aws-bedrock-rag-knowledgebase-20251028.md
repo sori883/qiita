@@ -7,7 +7,7 @@ tags:
   - 生成AI
   - KnowledgeBaseForAmazonBedrock
 private: false
-updated_at: '2025-10-31T00:00:39+09:00'
+updated_at: '2025-10-31T12:01:08+09:00'
 id: 17acd638e252cf869209
 organization_url_name: ap-com
 slide: false
