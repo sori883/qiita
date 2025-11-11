@@ -1,12 +1,12 @@
 ---
 title: 初めて社外LTをした感想
 tags:
-  - 'ポエム'
-  - 'LT'
-  - '初心者'
+  - 初心者
+  - ポエム
+  - LT
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-11-11T12:48:26+09:00'
+id: f796718409eca446f17d
 organization_url_name: ap-com
 slide: false
 ignorePublish: false
