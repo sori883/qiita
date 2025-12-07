@@ -23,7 +23,7 @@
     "qiita": "link:"
   },
   "devDependencies": {
-    "textlint": "^15.4.1",
+    "textlint": "^15.5.0",
     "textlint-rule-ja-no-redundant-expression": "^4.0.1",
     "textlint-rule-ja-unnatural-alphabet": "^2.0.1",
     "textlint-rule-no-doubled-joshi": "^5.1.1",
