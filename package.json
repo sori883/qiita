@@ -5,7 +5,7 @@
   "scripts": {
     "qiita": "qiita",
     "new": "qiita new",
-    "preview": "CHOKIDAR_USEPOLLING=true qiita preview",
+    "preview": "qiita preview",
     "publish": "qiita publish",
     "publish:all": "qiita publish -all",
     "lint": "textlint public/*.md --config .textlintrc.json",
