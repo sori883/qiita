@@ -1,14 +1,14 @@
 ---
 title: AWSで生成AIの記憶を実装してAgentCoreのありがたさを再確認した。
 tags:
-  - 'AWS'
-  - 'LLM'
-  - 'AIエージェント'
-  - 'OpenSearch'
-  - 'Neptune'
+  - AWS
+  - OpenSearch
+  - Neptune
+  - LLM
+  - AIエージェント
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-21T23:52:35+09:00'
+id: a8f022877911966f0300
 organization_url_name: ap-com
 slide: false
 ignorePublish: false
