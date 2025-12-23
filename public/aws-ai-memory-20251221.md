@@ -1,5 +1,5 @@
 ---
-title: AWSで生成AIの記憶を実装してAgentCoreのありがたさを再確認した。
+title: AWSで生成AIの記憶実装方法を3パターン検討する
 tags:
   - 'AWS'
   - 'LLM'
