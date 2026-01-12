@@ -3,7 +3,22 @@
   "extends": ["config:base"],
   "updateInternalDeps": true,
   "rangeStrategy": "bump",
-  "automerge": true,
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["patch"],
+      "automerge": true,
+      "automergeType": "pr",
+      "platformAutomerge": true
+    },
+    {
+      "matchUpdateTypes": ["minor"],
+      "automerge": false
+    },
+    {
+      "matchUpdateTypes": ["major"],
+      "automerge": false
+    }
+  ],
   "npm": {
     "fileMatch": ["(^|/)package\\.json$"]
   }
