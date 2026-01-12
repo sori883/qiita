@@ -2,12 +2,12 @@
 title: AWS CDKを書き始める前に決めておきたいこと
 tags:
   - AWS
+  - IaC
   - CDK
   - AWSCDK
-  - IaC
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-01-12T10:36:57+09:00'
+id: d5fd96603b7586b6ec08
 organization_url_name: ap-com
 slide: false
 ignorePublish: false
