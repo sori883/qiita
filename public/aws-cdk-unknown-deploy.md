@@ -3,12 +3,12 @@ title: 未知の環境にAWS CDKをデプロイすることになったら
 tags:
   - AWS
   - IaC
+  - AI
   - CDK
   - AWSCDK
-  - AI
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-01-31T23:57:09+09:00'
+id: 680bf1dfc26c69a9afc5
 organization_url_name: ap-com
 slide: false
 ignorePublish: false
