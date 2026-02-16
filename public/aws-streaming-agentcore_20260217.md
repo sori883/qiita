@@ -2,13 +2,13 @@
 title: AWSでストリーミングはAPIGatewayが推し
 tags:
   - AWS
-  - APIGateway
   - lambda
-  - AgentCore
   - ストリーミング
+  - APIGateway
+  - AgentCore
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-02-17T08:53:16+09:00'
+id: 99608a593f0a1c5560ae
 organization_url_name: ap-com
 slide: false
 ignorePublish: false

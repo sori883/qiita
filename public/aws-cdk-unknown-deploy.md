@@ -7,7 +7,7 @@ tags:
   - CDK
   - AWSCDK
 private: false
-updated_at: '2026-02-01T01:50:10+09:00'
+updated_at: '2026-02-17T08:53:16+09:00'
 id: 680bf1dfc26c69a9afc5
 organization_url_name: ap-com
 slide: false
