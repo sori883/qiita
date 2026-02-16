@@ -17,7 +17,7 @@ ignorePublish: false
 [@sori883](https://x.com/sori883)です。  
 
 AgentCoreやBedrockによりAWSでストリーミングを求められる機会が増えましたが、いまいち何が良いのか分からなかったので色々調べてみました。  
-そのまとめです。  
+そのまとめとAPIGatewayを推すだけの記事です。  
 
 # ストリーミングでよく見るアーキテクチャ
 
