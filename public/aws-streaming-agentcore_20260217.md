@@ -76,7 +76,7 @@ AWSでストリーミングするアーキテクチャは様々あると思い�
 ## アーキテクチャ案の採用関連まとめ
 
 各アーキテクチャ案の採用観点を○△でまとめると下記です。  
-多くの利用用途で簡単にできるのがAPIGatewayパターンの良い部分だと思ってます。  
+多くの利用用途にハマって簡単に実装できるのがAPIGatewayパターンの良い部分だと思ってます。  
 APIGateway触ったことない人が少ないのもまた良いポイントです。  
 
 | 採用観点 | Amplify | ALB | CloudFront | APIGateway |
@@ -109,7 +109,7 @@ uv init
 uv add bedrock-agentcore strands-agents
 ```
 
-main.pyでAIエージェントを実装します。  
+main.pyにAIエージェントを実装します。  
 
 ```py:agentcore/main.py
 from dotenv import load_dotenv
@@ -139,7 +139,7 @@ if __name__ == "__main__":
     app.run()
 ```
 
-また、CDKではDockerでデプロイするためDockerfileも作成しておきます。  
+また、DockerでデプロイするためDockerfileも作成しておきます。  
 
 ```dockerfile: agentcore/Dockerfile
 FROM python:3.13-slim-trixie
@@ -322,7 +322,7 @@ const parseClientRequest = (event: APIGatewayProxyEvent): ClientRequest => {
 
 ## CDKの実装
 
-AgentCoreをまず作成します。  
+まず、AgentCoreを作成します。  
 モデルへのアクセス権限は忘れずに付与しておきます。  
 
 ```ts:cdk/lib/constructs/agentcore.ts
@@ -433,9 +433,9 @@ export class ApiGateway extends Construct {
 
 ## フロントエンドの実装
 
-HonoXでAPIGatewayを叩いて、ストリーミングをしてみます。  
+HonoXでAPIGatewayにリクエストして結果をストリーミングで表示するようなものを作ります。  
 
-まずは、フロントエンドから直接APIGatewayを叩きたくないので、HonoXにバックエンドAPIを作成し、APIGatewayを実行するようにします。  
+クライアントサイドから直接APIGatewayを叩きたくないのでHonoXにバックエンドAPIを作成し、サーバサイドでAPIGatewayを実行するようにします。  
 
 ```ts:honox/app/routes/api/invoke.ts
 import { createRoute } from 'honox/factory'
@@ -465,7 +465,7 @@ export const POST = createRoute(async (c) => {
 })
 ```
 
-次にフロントエンドにフォームを用意し、バックエンドAPIの実行とストリーミングレスポンスの表示をします。   
+次にクライアントサイドでバックエンドAPIの実行と結果のストリーミング表示を実装します。   
 
 ```tsx:honox/app/routes/index.tsx
 import { useState } from 'hono/jsx'
@@ -518,5 +518,5 @@ export default function Chat() {
 
 
 # さいごに
-ストリーミングの実装機会が増えて、設計が求められる場面になったら、真っ先にAPIGatewayを提案して行きたいと思ってます。  
+ストリーミングの実装機会が増えて設計が求められる場面になったら、真っ先にAPIGatewayを提案して行きたいと思ってます。  
 というか、個人開発から業務の商用環境までAPIGateway＆Lambda実装を使いまわして行きたいと思ってます。  
