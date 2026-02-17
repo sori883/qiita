@@ -7,7 +7,7 @@ tags:
   - APIGateway
   - AgentCore
 private: false
-updated_at: '2026-02-17T08:53:16+09:00'
+updated_at: ''
 id: 99608a593f0a1c5560ae
 organization_url_name: ap-com
 slide: false
@@ -92,6 +92,11 @@ APIGateway触ったことない人が少ないのもまた良いポイントで�
 
 https://dev.classmethod.jp/articles/amazon-bedrock-agentcore-runtime-api-gateway-lambda-streaming-response/  
 
+## 成果物
+
+下記に実装を格納しています。  
+
+https://github.com/sori883/agentcore-streaming
 
 ## アーキテクチャ
 今回は個人開発を想定して、CloudflareでホストしたHonoXからAPIGatewayにアクセスしてストリーミングしてみます。  
