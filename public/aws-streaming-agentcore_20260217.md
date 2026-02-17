@@ -7,7 +7,7 @@ tags:
   - APIGateway
   - AgentCore
 private: false
-updated_at: ''
+updated_at: '2026-02-17T17:35:16+09:00'
 id: 99608a593f0a1c5560ae
 organization_url_name: ap-com
 slide: false
