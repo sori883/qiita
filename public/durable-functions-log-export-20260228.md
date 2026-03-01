@@ -1,5 +1,5 @@
 ---
-title: AWS Lambda durable functionsでCloudWatc Logsのログをエクスポートしてみる
+title: AWS Lambda durable functionsでCloudWatch Logsのログをエクスポートしてみる
 tags:
   - AWS
   - lambda
