@@ -6,7 +6,7 @@ tags:
   - DurableFunctions
   - CDK
 private: false
-updated_at: '2026-02-28T23:14:17+09:00'
+updated_at: '2026-03-01T14:43:52+09:00'
 id: f30867e121c02e578b56
 organization_url_name: ap-com
 slide: false
