@@ -1,13 +1,13 @@
 ---
-title: AWS Lambda durable functionsでCloudWatc Logsのログをエクスポートしてみる
+title: AWS Lambda durable functionsでCloudWatch Logsのログをエクスポートしてみる
 tags:
-  - "AWS"
-  - "lambda"
-  - "DurableFunctions"
-  - "CDK"
+  - AWS
+  - lambda
+  - DurableFunctions
+  - CDK
 private: false
-updated_at: ""
-id: null
+updated_at: '2026-03-01T14:43:52+09:00'
+id: f30867e121c02e578b56
 organization_url_name: ap-com
 slide: false
 ignorePublish: false
