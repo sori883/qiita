@@ -9,7 +9,7 @@ tags:
 private: false
 updated_at: ''
 id: null
-organization_url_name: ap-coom
+organization_url_name: ap-com
 slide: false
 ignorePublish: false
 ---
