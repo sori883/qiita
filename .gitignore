@@ -1,3 +1,7 @@
 .remote
 node_modules
 .DS_Store
+memo
+
+# APM dependencies
+apm_modules/
