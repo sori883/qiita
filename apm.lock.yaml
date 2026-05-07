@@ -1,0 +1,190 @@
+lockfile_version: '1'
+generated_at: '2026-05-04T13:44:42.073931+00:00'
+apm_version: 0.11.0
+dependencies:
+- repo_url: sori883/ai-dotfiles
+  host: github.com
+  resolved_commit: 9a52fb599bcb480070d74a97b9da5bab84a277f6
+  virtual_path: presets/daily
+  is_virtual: true
+  package_type: apm_package
+  content_hash: sha256:eeb943135e69ea7886a6c49effb3947872dfd5aba405017fec4e99da947545d1
+- repo_url: sori883/ai-dotfiles
+  host: github.com
+  virtual_path: agents/doc-updater.agent.md
+  is_virtual: true
+  depth: 2
+  resolved_by: sori883/ai-dotfiles
+  package_type: apm_package
+  deployed_files:
+  - .claude/agents/doc-updater.md
+  deployed_file_hashes:
+    .claude/agents/doc-updater.md: sha256:e5fea7288bdbcafffaffbd83eeafd7c769e99c7db131f62901bf074fd021f420
+  content_hash: sha256:604339b6d0ed884fc9965142183210cff5aec49754808d02f9180cea0718958d
+- repo_url: sori883/ai-dotfiles
+  host: github.com
+  virtual_path: agents/orchestrator.agent.md
+  is_virtual: true
+  depth: 2
+  resolved_by: sori883/ai-dotfiles
+  package_type: apm_package
+  deployed_files:
+  - .claude/agents/orchestrator.md
+  deployed_file_hashes:
+    .claude/agents/orchestrator.md: sha256:813e5902aab263fc3b97794d67eb8162f968c6822f3f73a507c5787e096ef06b
+  content_hash: sha256:dd15755449e2971d13a8eac923d18f413873b392eb8b932d3118677b7366b229
+- repo_url: sori883/ai-dotfiles
+  host: github.com
+  virtual_path: agents/planner.agent.md
+  is_virtual: true
+  depth: 2
+  resolved_by: sori883/ai-dotfiles
+  package_type: apm_package
+  deployed_files:
+  - .claude/agents/planner.md
+  deployed_file_hashes:
+    .claude/agents/planner.md: sha256:e89ec9dc13bd2c4aead57089907d2dd3caa27cc867cd6c36f951bd3fa0ff36b7
+  content_hash: sha256:b6384495aa7e08806c0b0aaa6c8559f773f474572787b1bdf77e67c8e88b75a5
+- repo_url: sori883/ai-dotfiles
+  host: github.com
+  virtual_path: instructions/proactive-subagents-skills.instructions.md
+  is_virtual: true
+  depth: 2
+  resolved_by: sori883/ai-dotfiles
+  package_type: apm_package
+  deployed_files:
+  - .claude/rules/proactive-subagents-skills.md
+  deployed_file_hashes:
+    .claude/rules/proactive-subagents-skills.md: sha256:55665f2ef511ba66eb75a3b252ac2fedd48f2218eea1f413dd551663c2a82dce
+  content_hash: sha256:e5f31fa3216e12e89c153f5df5816294b33a2c604eae57ad55b81944ea60ba1b
+- repo_url: sori883/ai-dotfiles
+  host: github.com
+  virtual_path: prompts/blog-review.prompt.md
+  is_virtual: true
+  depth: 2
+  resolved_by: sori883/ai-dotfiles
+  package_type: apm_package
+  deployed_files:
+  - .claude/commands/blog-review.md
+  deployed_file_hashes:
+    .claude/commands/blog-review.md: sha256:a76d1b2abbb743909a4b008f14455de5998928082df315e6d7f16f2e4f1f52ad
+  content_hash: sha256:e1e53a249879253b35ef3f6f504e0c0230848b8aa6b7b5f2276d3cd409422b28
+- repo_url: sori883/ai-dotfiles
+  host: github.com
+  resolved_commit: 9a52fb599bcb480070d74a97b9da5bab84a277f6
+  virtual_path: skills/docs-review
+  is_virtual: true
+  depth: 2
+  resolved_by: sori883/ai-dotfiles
+  package_type: claude_skill
+  deployed_files:
+  - .claude/skills/docs-review
+  content_hash: sha256:ae89f066708a88bcea5ba748e49176d7cc5627cdcf2ae052481163888154b18e
+- repo_url: sori883/ai-dotfiles
+  host: github.com
+  resolved_commit: 9a52fb599bcb480070d74a97b9da5bab84a277f6
+  virtual_path: skills/docs-write
+  is_virtual: true
+  depth: 2
+  resolved_by: sori883/ai-dotfiles
+  package_type: claude_skill
+  deployed_files:
+  - .claude/skills/docs-write
+  content_hash: sha256:a83a64637112f56cfb1d17a2c1b9c921b4989cbc8b643dd4ead4a0c606b5d7fd
+- repo_url: sori883/ai-dotfiles
+  host: github.com
+  resolved_commit: 9a52fb599bcb480070d74a97b9da5bab84a277f6
+  virtual_path: skills/empirical-prompt-tuning
+  is_virtual: true
+  depth: 2
+  resolved_by: sori883/ai-dotfiles
+  package_type: claude_skill
+  deployed_files:
+  - .claude/skills/empirical-prompt-tuning
+  content_hash: sha256:9c64f10bca463d3ea059d1659d4dd9fddfd90239825c44f1be20c18a2e15b69a
+- repo_url: sori883/ai-dotfiles
+  host: github.com
+  resolved_commit: 9a52fb599bcb480070d74a97b9da5bab84a277f6
+  virtual_path: skills/gws-calendar
+  is_virtual: true
+  depth: 2
+  resolved_by: sori883/ai-dotfiles
+  package_type: claude_skill
+  deployed_files:
+  - .claude/skills/gws-calendar
+  content_hash: sha256:b93471098ebbfb95aeef29859c367c8784e6b314632180333474c89579d22de6
+- repo_url: sori883/ai-dotfiles
+  host: github.com
+  resolved_commit: 9a52fb599bcb480070d74a97b9da5bab84a277f6
+  virtual_path: skills/image-compressor
+  is_virtual: true
+  depth: 2
+  resolved_by: sori883/ai-dotfiles
+  package_type: claude_skill
+  deployed_files:
+  - .claude/skills/image-compressor
+  content_hash: sha256:336ce7b8d8c7970d2b506a80d0546f601af7b5120422df6ecb8d3b171a4687da
+- repo_url: sori883/ai-dotfiles
+  host: github.com
+  resolved_commit: 9a52fb599bcb480070d74a97b9da5bab84a277f6
+  virtual_path: skills/playwright-cli
+  is_virtual: true
+  depth: 2
+  resolved_by: sori883/ai-dotfiles
+  package_type: claude_skill
+  deployed_files:
+  - .claude/skills/playwright-cli
+  content_hash: sha256:57dc421777e1ad9209a264eef76a57a57139fcec331a0eb7af03e1a111012d48
+mcp_servers:
+- atlassian
+- awslabs.aws-documentation-mcp-server
+- context7
+- serena
+- todoist
+mcp_configs:
+  atlassian:
+    name: atlassian
+    transport: stdio
+    args:
+    - -y
+    - mcp-remote
+    - https://mcp.atlassian.com/v1/sse
+    registry: false
+    command: npx
+  awslabs.aws-documentation-mcp-server:
+    name: awslabs.aws-documentation-mcp-server
+    transport: stdio
+    env:
+      FASTMCP_LOG_LEVEL: ERROR
+    args:
+    - awslabs.aws-documentation-mcp-server@latest
+    registry: false
+    command: uvx
+  context7:
+    name: context7
+    transport: http
+    registry: false
+    url: https://context7.liam.sh/mcp
+  serena:
+    name: serena
+    transport: stdio
+    args:
+    - --from
+    - git+https://github.com/oraios/serena
+    - serena
+    - start-mcp-server
+    - --context
+    - ide-assistant
+    - --project
+    - ./
+    registry: false
+    command: uvx
+  todoist:
+    name: todoist
+    transport: stdio
+    args:
+    - -y
+    - mcp-remote
+    - https://ai.todoist.net/mcp
+    registry: false
+    command: npx
