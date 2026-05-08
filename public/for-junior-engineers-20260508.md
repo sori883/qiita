@@ -1,14 +1,14 @@
 ---
 title: 【新人エンジニア】個人開発で学習サイクルを回してエンジニア力を鍛える
 tags:
-  - 新人プログラマ応援
   - 初心者
-  - 個人開発
-  - エンジニア
   - ポエム
+  - エンジニア
+  - 個人開発
+  - 新人プログラマ応援
 private: false
 updated_at: ''
-id: null
+id: 10c199c5b583d68a5e6c
 organization_url_name: ap-com
 slide: false
 ignorePublish: false
