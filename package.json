@@ -17,13 +17,13 @@
   ],
   "author": "sori883",
   "license": "ISC",
-  "packageManager": "pnpm@10.33.0",
+  "packageManager": "pnpm@10.33.4",
   "dependencies": {
     "@qiita/qiita-cli": "^1.8.0",
     "qiita": "link:"
   },
   "devDependencies": {
-    "textlint": "^15.5.2",
+    "textlint": "^15.5.4",
     "textlint-rule-ja-no-redundant-expression": "^4.0.1",
     "textlint-rule-ja-unnatural-alphabet": "^2.0.1",
     "textlint-rule-no-doubled-joshi": "^5.1.1",
